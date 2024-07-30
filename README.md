@@ -21,9 +21,9 @@ A **Weather App** that allows users to view weather information for their curren
 
 1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
-   ```
+```bash
+git clone https://github.com/yourusername/weather-app.git
+```
 
 2. **Navigate to the project directory**:
 
