@@ -6,9 +6,7 @@
 3. **Technology Stack**: Lists technologies used.
 4. **Installation**: Steps to clone and set up the project.
 5. **Usage**: Instructions on how to use the application.
-6. **Contributing**: Guidelines for contributing to the project.
-7. **License**: Licensing information.
-8. **Acknowledgements**: Credits and references.
+6. **Acknowledgements**: Credits and references.
 
    
 ## Description
